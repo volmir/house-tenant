@@ -1,6 +1,6 @@
 ## house-tenant application
 
-Based on Synfony 5.0
+Based on Symfony 5.0
 
 ### Description
 
